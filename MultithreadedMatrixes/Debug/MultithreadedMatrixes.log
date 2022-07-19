@@ -1,0 +1,6 @@
+﻿  MultithreadedMatrixes.cpp
+C:\Users\User\Desktop\unyk\c++\MultithreadedMatrixes\MultithreadedMatrixes\MultithreadedMatrixes.cpp(28,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\Desktop\unyk\c++\MultithreadedMatrixes\MultithreadedMatrixes\TMatrix.h(712,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\unyk\c++\MultithreadedMatrixes\MultithreadedMatrixes\MultithreadedMatrixes.cpp(36): message : see reference to function template instantiation 'std::ostream &operator <<<int>(std::ostream &,TMatrix<int> &)' being compiled
+C:\Users\User\Desktop\unyk\c++\MultithreadedMatrixes\MultithreadedMatrixes\Object.h(53): warning C4715: 'Object<int>::operator=': not all control paths return a value
+  MultithreadedMatrixes.vcxproj -> C:\Users\User\Desktop\unyk\c++\MultithreadedMatrixes\Debug\MultithreadedMatrixes.exe
